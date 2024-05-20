@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+
+img {
+    display: block;
+    width: 30%;
+    height: 400px;
+    cursor: pointer;
+}
+*{
+    background-color: rgb(14, 184, 214);
+}
+#my button{
+     
+        margin-top: 20px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    
+    
+}
